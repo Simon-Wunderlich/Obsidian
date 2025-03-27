@@ -1,5 +1,5 @@
 2025-03-24
-Class: [[Programming Studio]] [[UCD]]
+Class: [[UCD]]
 - - -
 1. Collect user data
 	1. Primary 

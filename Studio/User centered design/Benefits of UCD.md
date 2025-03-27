@@ -1,5 +1,5 @@
 2025-03-24
-Class: [[Programming Studio]] [[UCD]]
+Class: [[UCD]]
 - - -
 - Provides systematic process
 - Translates user needs, wants pain-points into implementable and effective solutions
