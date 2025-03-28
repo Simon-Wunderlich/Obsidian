@@ -1,6 +1,7 @@
 2025-03-24
 Class: [[UCD]]
 - - -
+![[Pasted image 20250328150412.png]]
 1. Collect user data
 	1. Primary 
 		1. EXPENSIVE 
