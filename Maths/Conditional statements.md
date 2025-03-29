@@ -1,7 +1,7 @@
 Mar 28 2025
 Class: [[Maths]]
 - - -
-**Conditional operation**
+##### Conditional operation
 p$\rightarrow$q
 if p is true, q must be true
 if p is not true / unknown, q is not necessarily false
@@ -12,19 +12,19 @@ if p is not true / unknown, q is not necessarily false
 | F   | F   | T               |
 
 
-**Biconditional operation**
+##### Biconditional operation
 p$\leftrightarrow$q
 if p is true, q must be true
 if p is false, q must be false
 if p is unknown, q is unknown
 
-**Tautology**
+##### Tautology
 Compound proposition that is always true
 
-**Contradiction**
+##### Contradiction
 Compound proposition that is always false
 
-**Logical equivalence**
+##### Logical equivalence
 $\neg$p $\equiv$ $\neg$p $\rightarrow$p
 Two compound conditions are *logically equivalent* if they have the same truth value in all cases
 
