@@ -1,3 +1,3 @@
-{{date}}
+Created: {{date}}
 Class: 
 - - -

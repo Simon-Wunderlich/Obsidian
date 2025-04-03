@@ -1,5 +1,5 @@
-Mar 27 2025
-Class: [[Database]]
+Created: Mar 27 2025
+Class: 
 - - -
 
 | Name                 | Definition                                                                   |
