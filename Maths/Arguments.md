@@ -1,0 +1,14 @@
+Created: Apr 03 2025
+Class: [[Maths]]
+- - -
+$h_1$
+$h_2$
+$\cdots$
+-‌-‌-‌-‌-‌-‌-‌
+∴ $c$
+
+Supposing $h_1$ and $h_2$ are true, then $c$ is also true
+That is:
+($h_1$ $\wedge$ $h_2$ $\wedge$ $\cdots$ ) $\rightarrow$ $c$ is a [[Conditional statements#Tautology|tautology]]
+
+
