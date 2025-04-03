@@ -17,3 +17,4 @@ Class: [[Maths]]
 | Equivalence   | $\equiv$          | [[Conditional statements#Logical equivalence \| Equivalence]]     |
 | Implication   | $\rightarrow$     | [[Conditional statements#Conditional operation\|Implication]]     |
 | Biconditional | $\leftrightarrow$ | [[Conditional statements#Biconditional operation\|Biconditional]] |
+s

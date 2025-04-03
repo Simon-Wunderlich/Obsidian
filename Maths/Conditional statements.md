@@ -28,3 +28,15 @@ Compound proposition that is always false
 $\neg$p $\equiv$ $\neg$p $\rightarrow$p
 Two compound conditions are *logically equivalent* if they have the same truth value in all cases
 
+
+
+| p   | q   | r   | 1   | 2   |
+| --- | --- | --- | --- | --- |
+| T   | T   | T   | T   | T   |
+| T   | T   | F   | T   | T   |
+| T   | F   | T   | T   | T   |
+| T   | F   | F   | T   | T   |
+| F   | T   | T   | T   | T   |
+| F   | T   | F   | F   | F   |
+| F   | F   | T   | F   | F   |
+| F   | F   | F   | T   | F   |
