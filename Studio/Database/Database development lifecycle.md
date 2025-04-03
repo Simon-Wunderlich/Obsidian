@@ -16,3 +16,4 @@ A --> B --> C --> D --> E --> F --> G --> H
 
 ```
 
+More focused on technical requirements, whereas UCD is more focused on user requirements
