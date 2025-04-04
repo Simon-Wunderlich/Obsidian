@@ -11,4 +11,5 @@ Supposing $h_1$ and $h_2$ are true, then $c$ is also true
 That is:
 ($h_1$ $\wedge$ $h_2$ $\wedge$ $\cdots$ ) $\rightarrow$ $c$ is a [[Conditional statements#Tautology|tautology]]
 
-
+#### Validity
+if all hypothesies are true and the conclusion is false, the argument is invalid
