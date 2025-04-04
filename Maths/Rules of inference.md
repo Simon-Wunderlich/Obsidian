@@ -16,6 +16,7 @@ p $\wedge$ q $\rightarrow$ p
 #### Conjunction
 p $\wedge$ q $\rightarrow$ p $\wedge$ q
 
+#### Hypothetical Syllogism
 (p $\rightarrow$ q) $\wedge$ (q $\rightarrow$ r) $\rightarrow$ (p $\rightarrow$ r)
 
 #### Disjunctive Syllogism
