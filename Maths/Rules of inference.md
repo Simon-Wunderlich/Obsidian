@@ -25,3 +25,4 @@ p $\wedge$ q $\rightarrow$ p $\wedge$ q
 #### Resolution
 (p $\vee$ q) $\wedge$ ($\neg$p $\vee$ r) $\rightarrow$ (q $\vee$ r)
 
+![[Pasted image 20250404141921.png]]
