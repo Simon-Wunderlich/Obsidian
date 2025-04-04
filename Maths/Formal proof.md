@@ -8,5 +8,5 @@ Line structure
 {num}. {resultant proposition}, {justification} {lines referenced}
 
 eg 
-1. p $\rightarrow$ q, hypothe
+1. p $\rightarrow$ q, hypothesis
 2. $\neg$p$\vee$q, Conditional identities 2

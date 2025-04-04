@@ -3,12 +3,12 @@ Class: [[Maths]]
 - - -
 ### Binary operators
 
-| Operator              | Symbol | Boolean algebra symbol | Example       |
-| --------------------- | ------ | ---------------------- | ------------- |
-| **AND** (conjunction) | ∧      | .                      | p∧q, p.q      |
-| **OR** (disjunction)  | ∨      | +                      | p∨q, p+q      |
-| **NOT** (negation)    | ¬      | ‾                      | ¬p, $\bar{p}$ |
-| **XOR**               | ⊕      | ⊕                      | p⊕q           |
+| Operator              | Symbol | Boolean algebra symbol | Example        |
+| --------------------- | ------ | ---------------------- | -------------- |
+| **AND** (conjunction) | ∧      | . or blank             | p∧q, p.q or pq |
+| **OR** (disjunction)  | ∨      | +                      | p∨q, p+q       |
+| **NOT** (negation)    | ¬      | ‾                      | ¬p, $\bar{p}$  |
+| **XOR**               | ⊕      | ⊕                      | p⊕q            |
 
 ### Relation operators
 
