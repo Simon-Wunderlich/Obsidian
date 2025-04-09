@@ -21,7 +21,11 @@ Class: [[Database]]
 	- Defines extra info abt a relationship between entities
 
 ### Multiplicity
-
+#### Describe in your own words the following concepts: 
+- Cardinality
+	- The highest number of possible relationships for a given entity
+- Participation
+	- The lowest number of possible relationships for a given entity
 {Participation}..{Cardinality}
 ie
 {Minimum}..{Maximum}
