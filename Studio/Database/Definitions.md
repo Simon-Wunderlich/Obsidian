@@ -1,5 +1,5 @@
 Created: Mar 27 2025
-Class: 
+Class: [[Database]]
 - - -
 
 ### Relational keys
@@ -16,4 +16,14 @@ Class:
 | Entity Integrity     | Primary keys cannot be null in a base relation                          |
 | Relational integrity | Foreign keys must match a candidate key in its home relation or be null |
 
+### UML
+#### Multiplicity
+| Name                    | Definition                                                      |
+| ----------------------- | --------------------------------------------------------------- |
+| Cardinality             | The highest number of possible relationships for a given entity |
+| Participation           | The lowest number of possible relationships for a given entity  |
+| Simple attributes       | Stores single value                                             |
+| Composite attributes    | Groups multiple different attributes                            |
+| Multi-valued attributes | Store multiple values for the same attribute                    |
+| Relationship attributes | Defines extra info abt a relationship between entities          |
 

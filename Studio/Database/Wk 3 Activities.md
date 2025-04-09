@@ -35,3 +35,5 @@ The entity closest to the multiplicity is what the relationship is relating to. 
 eg
 The department is managed by 1 to 1 employees as shown in the diagram
 An employee is manages 0 to 1 departments
+
+![[Pasted image 20250409114703.png]]
