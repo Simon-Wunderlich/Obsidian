@@ -2,7 +2,6 @@ Mar 28 2025
 Class: [[Maths]]
 - - -
 ### Binary operators
-
 | Operator              | Symbol | Boolean algebra symbol | Example        |
 | --------------------- | ------ | ---------------------- | -------------- |
 | **AND** (conjunction) | ∧      | . or blank             | p∧q, p.q or pq |
@@ -11,7 +10,6 @@ Class: [[Maths]]
 | **XOR**               | ⊕      | ⊕                      | p⊕q            |
 
 ### Relation operators
-
 | Operator      | Symbol            | Explanation                                                       |
 | ------------- | ----------------- | ----------------------------------------------------------------- |
 | Equivalence   | $\equiv$          | [[Conditional statements#Logical equivalence \| Equivalence]]     |
@@ -31,7 +29,6 @@ Class: [[Maths]]
 | $\mathbb{C}$ | Complex    | $i$                                     |
 
 #### Symbols
-
 | Symbol        | Name                             |
 | ------------- | -------------------------------- |
 | $\cup$        | Union                            |
