@@ -14,5 +14,10 @@ If $A \cap B = \varnothing$ then they are disjoint
 ### Set identities
 ![[Pasted image 20250411124701.png]]
 (exact same as logical laws)
+
 ### Power
 P(A) gives a set containing every combination of elements from set A
+Set of all possible subsets
+
+P($\varnothing$) = { $\varnothing$ }
+
