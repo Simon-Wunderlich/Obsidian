@@ -44,3 +44,4 @@ p$\leftrightarrow$q$\equiv$(p$\rightarrow$q)$\wedge$(q$\rightarrow$p)
 #### Absorption laws
 p$\vee$(p$\wedge$q)$\equiv$p
 
+![[Pasted image 20250411124320.png]]
