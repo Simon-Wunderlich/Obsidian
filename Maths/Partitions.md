@@ -17,6 +17,3 @@ let $U = \mathbb{Z}$, we can split this in two
 
 1. $A = \{x \in \mathbb{Z} : x < 0\}$
 2.  $B = \{x \in \mathbb{Z} : x \geq 0\}$
-
-A and B are disjoint
-
