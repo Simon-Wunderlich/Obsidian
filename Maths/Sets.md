@@ -16,6 +16,3 @@ If $A \cap B = \varnothing$ then they are disjoint
 (exact same as logical laws)
 ### Power
 P(A) gives a set containing every combination of elements from set A
-
-
-

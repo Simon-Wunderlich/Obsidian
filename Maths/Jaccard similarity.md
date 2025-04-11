@@ -4,3 +4,4 @@ Class: [[Maths]] [[Sets]]
 
 # $\frac{|A \cup B|}{|A \cap B|}$
 
+Used to find similarity between sets as a decimal from 1 to 0
