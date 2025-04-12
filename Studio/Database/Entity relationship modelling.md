@@ -8,7 +8,7 @@ Class: [[Database]]
 - ##### Weak entities
 	- An entitiy that is dependant on another entitiy
 	- No primary key, only partial key
-
+	
 #### Describe in your own words the following concepts: 
 
 - Simple attributes
@@ -45,3 +45,5 @@ PLANE(<u>RegNo</u>, ModelNo*)
 TEST(<u>CASANo</u>, Name, MaxScore)
 EXPERTIN(<u>SSN*, ModelNo*</u>)
 TESTEVENT(<u>CASANo*, RegNo*, Date,</u> Score, Hours)
+
+
