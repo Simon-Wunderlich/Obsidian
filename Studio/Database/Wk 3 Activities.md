@@ -37,3 +37,11 @@ The department is managed by 1 to 1 employees as shown in the diagram
 An employee is manages 0 to 1 departments
 
 ![[Pasted image 20250409114703.png]]
+
+#### Schema
+MODEL(<u>ModelNo</u>, Capacity, Weight)
+TECHNICIAN(<u>SSN</u>, Name, Adress, Salary, PhoneNo)
+PLANE(<u>RegNo</u>, ModelNo*)
+TEST(<u>CASANo</u>, Name, MaxScore)
+EXPERTIN(<u>SSN*, ModelNo*</u>)
+TESTEVENT(<u>CASANo*, RegNo*, Date,</u> Score, Hours)
