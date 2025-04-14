@@ -5,12 +5,14 @@ Class: [[Bootcamp]]
 ### Write
 ``` java
 import java.io.PrintWriter;
+import jaba.io.BufferedWriter;
 
 public class Main {  
     public static void main(String[] args) throws IOException {  
         //Will create file if not found  
-        PrintWriter pw = new PrintWriter("output.txt");  
-        pw.print("Helo, World!");  
+        boolean append = ___
+        BufferedWriter pw = new BufferedWriter(new PrintWriter("output.txt"), append);  
+        pw.write("Helo, World!");  
         pw.close();  
     }  
   
@@ -19,18 +21,20 @@ public class Main {
 
 ### Read
 ``` java 
-import java.io.FileStream;
+import java.io.FileReader;
 import java.util.Scanner;
+import java.io.BufferedReader;
 
 public class Main {
 	public static void main(String[] args) throws IOException {
-		FileStream fs = new FileStream("input.txt");
-		Scanner scnr = new Scanner(fs);
 		
-		scnr.nextLine();
+		BufferedReader reader = new BufferedReader(new FileReader("input.txt"));
+		
+		reader.readLine();
 		...
-		fs.close(); 
+		reader.close(); 
 	}
 
 }
 ```
+
