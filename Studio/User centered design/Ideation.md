@@ -9,3 +9,16 @@ Class: [[Programming Studio]] [[UCD]]
 	- Give the designer a better sense of layout and functionality of the design in order to identify potential issues or pain points
 
 [[Nielsen Design Principles]]
+
+### Good example
+Error prevention
+![[Pasted image 20250427175505.png]]
+User control and freedom
+![[Pasted image 20250427175526.png]]
+Maintain consistency and Adhere to Standards
+![[Pasted image 20250427175617.png]]
+
+Help users recognise, Diagnose, and Recover from Errors
+![[Pasted image 20250427175744.png]]
+Is there anything about the app that you would improve so that it takes one or more of Nielsen's heuristics into account?
+not rlly lmao
