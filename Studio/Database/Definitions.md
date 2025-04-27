@@ -18,12 +18,14 @@ Class: [[Database]]
 
 ### UML
 #### Multiplicity
-| Name                    | Definition                                                      |
-| ----------------------- | --------------------------------------------------------------- |
-| Cardinality             | The highest number of possible relationships for a given entity |
-| Participation           | The lowest number of possible relationships for a given entity  |
-| Simple attributes       | Stores single value                                             |
-| Composite attributes    | Groups multiple different attributes                            |
-| Multi-valued attributes | Store multiple values for the same attribute                    |
-| Relationship attributes | Defines extra info abt a relationship between entities          |
+| Name                    | Definition                                                                            |
+| ----------------------- | ------------------------------------------------------------------------------------- |
+| Cardinality             | The highest number of possible relationships for a given entity                       |
+| Participation           | The lowest number of possible relationships for a given entity                        |
+| Simple attributes       | Stores single value                                                                   |
+| Composite attributes    | Groups multiple different attributes                                                  |
+| Multi-valued attributes | Store multiple values for the same attribute                                          |
+| Relationship attributes | Defines extra info abt a relationship between entities                                |
+| Strong entities         | - An entity which can stand alone<br>- Unique primary key                             |
+| Weak entities           | - An entity that is dependant on another entity<br>- No primary key, only partial key |
 
