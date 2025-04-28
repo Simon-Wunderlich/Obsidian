@@ -2,7 +2,6 @@ Created: Apr 27 2025
 Class: [[Ideation]] 
 - - -
 ### Visibility of System Status
-
 Open communication between system and user
 Empowers user to make decisions
 Provide only necessary info
@@ -45,6 +44,9 @@ Prevent users from making mistakes
 
 UI hierarchies to point to expected interactions
 Confirm dialogues
+
+### Flexibility and Efficiency of Use
+Provide different ways to interface with the program, accommodating different skill levels
 
 ### Recognition vs. Recall
 
