@@ -8,7 +8,7 @@ For two sets, A and B, the Cartesian product of A and B is the set of all [[#Ord
 
 ##### Fun facts
 $A^n = \{ A \times A \times \cdots \times A_n\}$
-$|A \times B| = |A \cdot B|$
+$|A \times B| = |A| \cdot |B|$
 $A \times \varnothing = \varnothing$
 
 ###### Ordered pairs

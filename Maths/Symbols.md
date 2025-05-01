@@ -40,3 +40,4 @@ Class: [[Maths]]
 | $\supseteq$   | Superset (greater than or equal) |
 | $\forall$     | For all                          |
 | $\varnothing$ | Null set                         |
+$\elem
