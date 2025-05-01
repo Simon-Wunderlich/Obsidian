@@ -92,3 +92,4 @@ Consider following criteria for useful help
 - Ease to search
 - Focused on users task
 - List concrete steps to be carried out
+ 
