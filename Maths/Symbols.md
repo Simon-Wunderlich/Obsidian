@@ -28,6 +28,7 @@ Class: [[Maths]]
 | $\mathbb{P}$ | Irrational | $\pi, \sqrt{2}$                         |
 | $\mathbb{R}$ | Real       | $\frac{1}{2}, 1, \pi$                   |
 | $\mathbb{C}$ | Complex    | $i$                                     |
+| $\mathbb U$  | Universal  |                                         |
 
 #### Symbols
 | Symbol        | Name                             |

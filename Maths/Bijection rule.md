@@ -1,18 +1,23 @@
 Created: May 01 2025
-Class: [[Maths]] 
+Class: [[Counting]]
 - - -
-$$x=\{a,b,c\}$
+A bijection is a mapping function that maps one set to another
+
+$x=\{a,b,c\}$
 $f(x)$ is a bijection of x
 $f^-1(y)$ where $y\in f(x)$ returns the corresponding element of x
 
-if there is a bijection from set $A$ to set $B$, then the two sets have the same cardinality
+if there is a bijection from set $A$ to set $B$, then the two sets have the same **cardinality**
 Bijection is just the same as one to one mapping
-$$
-### k to 1 rule
+
+Used to count difficult sets by mapping them to trivial sets 
+
+### K to 1 rule
 Assuming a k-1 mapping from set $A$ to $B$, then:
 $$
 |B|=\frac{|A|}{k}
 $$
+Bijection is a case of K to 1 rule 
 
 ### Converting Power set to binary 
 | P(x)     | $\varnothing$ | $\{a\}$ | $\{b\}$ | $\{c\}$ | $\{a,b\}$ | $\{a,c\}$ | $\{b,c\}$ | $\{a,b,c\}$ |
@@ -30,9 +35,3 @@ $$
 | f(b,c)           | 0   | 1   | 1   |
 | f(a,b,c)         | 1   | 1   | 1   |
 If element is present as parameter, the bit in its index in the string is 1, else 0
-
-### k to 1 rule
-Assuming a k-1 mapping from set $A$ to $B$, then:
-$$
-|B|=\frac{|A|}{k}
-$$

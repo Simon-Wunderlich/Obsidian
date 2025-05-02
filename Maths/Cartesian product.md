@@ -8,13 +8,13 @@ For two sets, A and B, the Cartesian product of A and B is the set of all [[#Ord
 
 ##### Fun facts
 $A^n = \{ A \times A \times \cdots \times A_n\}$
-$|A \times B| = |A| \cdot |B|$
 $A \times \varnothing = \varnothing$
 
+### Product rule
+$$|A \times B| = |A| \cdot |B|$$
 ###### Ordered pairs
 (a,b) $\neq$ (b,a)
 $A \times B \neq B \times A$
-
 
 ### Strings
 If you remove the commas then u get a sequence of characters from a set

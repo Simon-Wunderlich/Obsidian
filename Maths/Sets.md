@@ -21,3 +21,15 @@ Set of all possible subsets
 
 P($\varnothing$) = { $\varnothing$ }
 
+### Multi set
+A set which allows duplicates
+
+When comparing as sets
+$\{a, b, b, c \} = \{a, b, c\}$
+
+When comparing as multisets
+$\{a, b, b, c \} \neq \{a, b, c\}$
+$\{a, b, b, c \} = \{b, b, a, c\}$
+
+### Counting multisets
+![[Pasted image 20250501151354.png]]
