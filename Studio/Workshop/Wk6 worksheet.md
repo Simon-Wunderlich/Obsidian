@@ -62,7 +62,7 @@ types of content?
 body
 
 Q10. How could you use the "top navbar" to link between multiple webpages?  
-href="/{subpageName}
+href="/{subpageName}"
 
 HTML CSS ACTIVITY record the URL of the last commit that  
 your group made in  
