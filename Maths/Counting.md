@@ -50,3 +50,9 @@ $$
 $$
 (A \cap B = \varnothing)
 $$
+
+![[Bijection rule]]
+
+
+
+![[Codewords]]

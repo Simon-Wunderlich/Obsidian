@@ -7,3 +7,4 @@ For every $n>a$, $f(n)\leq c \cdot g(n)$
 $\Omega$ Best case
 $\Theta$ Average case
 $O$  Worst case
+

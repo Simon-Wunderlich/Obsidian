@@ -33,3 +33,10 @@ $\{a, b, b, c \} = \{b, b, a, c\}$
 
 ### Counting multisets
 ![[Pasted image 20250501151354.png]]
+
+![[Cartesian product]]
+
+![[Partitions]]
+
+
+![[Jaccard similarity]]
