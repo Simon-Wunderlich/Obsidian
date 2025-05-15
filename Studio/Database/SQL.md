@@ -39,3 +39,16 @@ SELECT *
 FROM table
 WHERE name LIKE '%___hi';
 ```
+
+### DATETIME
+Datetime is not a data type, stored as string or int
+
+``` sql 
+DATE(timeValue) --converts the date as text
+TIME(timeValue) --converts the time as text
+DATETIME(timeValue) --converts time and date to text
+JULIANDAY(timeValue) --Days since noon in Greenwich on November 24, 4714 B.C.
+UNIXEPOCH(timeValue) -- Days since unix epoch (1st Jan 1970)
+STRFTIME('format', timeValue)
+TIMEDIFF(timeValue, timeValue) --Returns string representing time difference
+```
