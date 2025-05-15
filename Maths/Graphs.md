@@ -30,7 +30,7 @@ Each pair of elements $x$ and $y$ with an edge (x,y) also has an edge (y,x)
 $$
 \forall x \space and \space y \in A: xRy \cap yRx
 $$
-ie
+ie 
 $$
 xRy \leftrightarrow yRx
 $$
