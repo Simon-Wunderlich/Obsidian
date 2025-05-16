@@ -51,3 +51,5 @@ $$\forall x \forall y \forall z, \space (xRy \space and \space yRx) \rightarrow 
 ![[Pasted image 20250516101947.png]]
 
 ![[Types of walks]]
+
+![[Compositions of relations]]
