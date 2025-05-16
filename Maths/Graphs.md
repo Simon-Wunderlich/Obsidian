@@ -50,6 +50,9 @@ $$
 $$\forall x \forall y \forall z, \space (xRy \space and \space yRx) \rightarrow xRz$$
 ![[Pasted image 20250516101947.png]]
 
+
 ![[Types of walks]]
+
+
 
 ![[Compositions of relations]]
