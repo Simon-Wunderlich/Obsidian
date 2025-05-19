@@ -12,6 +12,10 @@ Any integer $n$ can be be broken down to:
 $$
 n=qd+r
 $$
+$where \space q=quotient, r=remainder, d,q,r,n\in \mathbb{Z}$
 $$
-where \space q=quotient, r=remainder, d,q,r,n\in \mathbb{Z} 
+q=n\space div \space d
+$$
+$$
+r = n \space mod \space d
 $$
