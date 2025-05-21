@@ -41,3 +41,33 @@ SELECT l.attr, r.attr
 FROM left_table as l
 NATURAL JOIN right_table as r;
 ```
+
+## Sub-queries
+You can nest separate queries within a WHERE statement
+If attr from table 1 is in the resultant row from the sub query, it is outputted
+``` sql
+SELECT attr
+FROM table1
+WHERE attr IN (SELECT attr FROM table2 WHERE table1.attr = table2.attr)
+```
+
+## Exists
+If the subquery returns any rows, the outer query returns a row
+```sql
+SELECT attr
+FROM table1
+WHERE EXISTS (
+	SELECT 1
+	FROM table2
+	WHERE table1.attr = table2.attr
+)
+```
+
+## Avoid aggregate function missue
+```sql
+SELECT attr1, attr2
+FROM table1
+WHERE attr2 IN (
+	SELECT MAX(attr2) FROM table2
+);
+```
