@@ -33,3 +33,11 @@ SELECT one.attr, two.attr, three.attr
 	JOIN table2 as two ON {condition}
 	JOIN table3 as three ON {condition};
 ```
+
+## Natural Join
+If two tables have the same named attribute, (ie foreign key) u can use NATURAL JOIN to join them
+``` sql
+SELECT l.attr, r.attr
+FROM left_table as l
+NATURAL JOIN right_table as r;
+```
