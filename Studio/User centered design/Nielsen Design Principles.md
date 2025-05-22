@@ -47,7 +47,6 @@ Confirm dialogues
 
 ### Flexibility and Efficiency of Use
 Provide different ways to interface with the program, accommodating different skill levels
-
 ### Recognition vs. Recall
 
 Give users cues to recognise functionality, rather than having to remember each feature of your design
