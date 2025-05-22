@@ -12,3 +12,16 @@ def euclid(x, y):
 		return euclid(y,r)
 ```
 
+
+### Extended euclids algorithm
+#unsure
+Let x and y be integers, there are always integers s and t such that
+$$
+GCD(x,y) = sx + ty
+$$
+Using euclid's algo, compute GCD, noting down each value of y
+Take last two values and rearrange their mod equation from $x \space mod \space y$ to $x - (x \space div \space y) \cdot y$ 
+Use simultaneous equation to solve for s, t
+
+![[Git/Attatchments/extendedEuclidsAlgorithm.pdf|extendedEuclidsAlgorithm]]
+

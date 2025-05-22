@@ -1,7 +1,7 @@
 Created: May 19 2025
-Class:[[Maths]] 
+Class:[[Integer properties]] 
 - - -
-Integer $x$ divides y (denoted $x | y$ )iff $y\%x=0$. That is, y is a multiple of x
+Integer $x$ divides y (denoted $x | y$ ) iff $y\%x=0$. That is, y is a multiple of x
 $x$ doesn't divide $y$ (denoted $x \nmid y$ ) 
 
 ### Divisibility and linear combinations
