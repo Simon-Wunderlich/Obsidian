@@ -1,5 +1,5 @@
 Created: May 19 2025
-Class:[[Integer properties]] 
+Class:[[Modular arithmetic and factorisation]] 
 - - -
 Integer $x$ divides y (denoted $x | y$ ) iff $y\%x=0$. That is, y is a multiple of x
 $x$ doesn't divide $y$ (denoted $x \nmid y$ ) 

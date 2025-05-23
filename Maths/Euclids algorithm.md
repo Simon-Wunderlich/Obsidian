@@ -1,5 +1,5 @@
 Created: May 22 2025
-Class: [[Integer properties]] 
+Class: [[Modular arithmetic and factorisation]] 
 - - -
 Finds GCD for integers x and y
 ```python

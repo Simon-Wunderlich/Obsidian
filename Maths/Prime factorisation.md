@@ -1,5 +1,5 @@
 Created: May 22 2025
-Class: [[Integer properties]] 
+Class: [[Modular arithmetic and factorisation]] 
 - - -
 Any number can be expressed as
 
