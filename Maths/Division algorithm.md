@@ -19,3 +19,5 @@ $$
 $$
 r = n \space mod \space d
 $$
+### Multiplicative inverse mod n
+Inverse mod n of integer x is an integer $s\in \{1,2, \cdots, n-1\}$ such that $sx \space mod  \space n = 1$

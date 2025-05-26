@@ -3,7 +3,7 @@ How pages are  connected
 
 ### Hub and Spoke
 Central homepage with other pages linked to it
-
+	
 ### Fully connected
 All pages have links to all other pages
 - Typically used for small to medium sized websites

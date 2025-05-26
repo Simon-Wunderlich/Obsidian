@@ -3,6 +3,10 @@ Class: [[Maths]]
 - - -
 ![[Division algorithm]]
 
+![[Modular arithmetic]]
+
 ![[Prime factorisation]]
 
 ![[Euclids algorithm]]
+
+![[Number representation]]

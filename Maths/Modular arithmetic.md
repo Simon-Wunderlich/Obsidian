@@ -9,7 +9,8 @@ $x \space in \space \mathbb(Z)_y=x \space mod \space y$
 x is congruent to y mod m if 
 $$
 x \space mod \space m = y \space mod \space m 
-$$ ie
+$$ 
+ie
 $$
 x \equiv y(mod \space m)
 $$
@@ -21,3 +22,8 @@ $$
 ### Computing arithmetic operations
 ![[Pasted image 20250523130116.png]]
 Cancels out when expanding
+Additionally
+$$
+a^b \space mod \space n = (a \space mod  \space n)^b
+$$
+

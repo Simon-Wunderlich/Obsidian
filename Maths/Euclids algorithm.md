@@ -11,6 +11,10 @@ def euclid(x, y):
 	else
 		return euclid(y,r)
 ```
+Uses the fact that
+$$
+GCD(x,y)=GCD(y \space mod \space x, x)
+$$
 
 
 ### Extended euclids algorithm
