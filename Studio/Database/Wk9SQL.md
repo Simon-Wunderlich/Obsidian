@@ -73,3 +73,22 @@ WHERE MOVSTAR.STARNUMB = 1;
 ```
 
 ## Part B
+```sql
+CREATE VIEW continent(name, NumCountries, Population) AS
+SELECT c.Continent, count(*), sum(c.population)
+FROM Country as c
+GROUP BY c.Continent;
+```
+
+```sql
+CREATE VIEW dir_awards(DirNumb, DirName, Awards, Nominations) AS
+SELECT DIRNAME, DIRECTOR.DIRNUMB, SUM(AWRD), SUM(NOMS)
+FROM DIRECTOR
+JOIN MOVIE ON MOVIE.DIRNUMB = DIRECTOR.DIRNUMB
+GROUP BY DIRECTOR.DIRNAME;
+```
+
+- Were you able to insert Steven Spielberg into dir_awards?
+No
+- Why do you think this is the case?
+Its just a query, not the data itself
