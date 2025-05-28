@@ -58,7 +58,7 @@ SELECT
 ...
 ```
 
-### Minus  / Except
+### Except
 Select only values not shared between both tables
 ```sql
 SELECT
@@ -68,3 +68,12 @@ SELECT
 ...
 ```
 
+## Views
+Save results of queries to pseudo table
+```sql
+CREATE VIEW vName(vAttr1, vAtt2, ...) AS
+SELECT
+...
+```
+the vAttr's name the columns from the select statement
+Querys can be run on views
