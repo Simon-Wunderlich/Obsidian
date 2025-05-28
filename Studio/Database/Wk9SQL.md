@@ -92,3 +92,49 @@ GROUP BY DIRECTOR.DIRNAME;
 No
 - Why do you think this is the case?
 Its just a query, not the data itself
+
+```sql
+CREATE TABLE codes (
+
+code TEXT PRIMARY KEY,
+
+text TEXT
+
+);
+
+INSERT INTO codes values ('PG', 'Parental Guidance');
+
+INSERT INTO codes values ('R','Restricted');
+
+INSERT INTO codes values ('G', 'General');
+
+INSERT INTO codes values ('NR', 'Not Rated');
+
+  
+
+  
+
+CREATE VIEW Movie_Extended(MVNUMB, MVTITLE, YRMDE, MVTYPE, CRIT, MPAA, NOMS, AWRD, DIRDUMB) AS
+
+SELECT MVNUMB, MVTITLE , YRMDE, MVTYPE, CRIT, text, NOMS, AWRD, DIRNUMB FROM MOVIE
+
+JOIN codes ON codes.code = MOVIE.MPAA;
+```
+
+```sql
+CREATE VIEW Movie_Extended(MVNUMB, MVTITLE, YRMDE, MVTYPE, CRIT, MPAA, NOMS, AWRD, DIRDUMB, SUCCESS) AS
+
+SELECT MVNUMB, MVTITLE , YRMDE, MVTYPE, CRIT, text, NOMS, AWRD, DIRNUMB,
+
+CASE
+
+WHEN NOMS > 0 THEN CAST (AWRD AS FLOAT)/NOMS * 100
+
+ELSE 0
+
+END
+
+FROM MOVIE
+
+JOIN codes ON codes.code = MOVIE.MPAA;
+```

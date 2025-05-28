@@ -3,7 +3,7 @@ Class: [[SQL]]
 - - -
 [[Wk9SQL]]
 
-### Group by
+## Group by
 Groups all rows of selected attribute sharing same value for GROUP BY value
 ```sql
 SELECT * FROM
@@ -17,16 +17,6 @@ Can be used to aggregate attributes in the same group
 COUNT(attr)
 SUM(attr)
 AVG(attr)
-...
-```
-
-### Union
-Merge results of two tables
-```sql
-SELECT
-...
-UNION
-SELECT
 ...
 ```
 
@@ -72,8 +62,26 @@ SELECT
 Save results of queries to pseudo table
 ```sql
 CREATE VIEW vName(vAttr1, vAtt2, ...) AS
-SELECT
+SELECT attr1, attr2, ...
 ...
 ```
 the vAttr's name the columns from the select statement
 Querys can be run on views
+
+## Insert data from other tables
+```sql
+INSERT INTO tabl2(vAttr1a, vAtt2a, ...)
+SELECT attr1b, attr2b, ...
+```
+
+## Case
+Change column based on condition
+```sql
+SELECT 
+CASE
+WHEN {condition} THEN attr1
+WHEN {condition2} THEN attr2
+ELSE attr3
+END
+FROM table;
+```
