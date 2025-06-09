@@ -28,6 +28,8 @@ Compound proposition that is always false
 $\neg$p $\equiv$ $\neg$p $\rightarrow$p
 Two compound conditions are *logically equivalent* if they have the same truth value in all cases
 
+![[L]]
+
 ![[Arguments]]
 
 ![[Rules of inference]]
