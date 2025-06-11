@@ -17,7 +17,7 @@ Can't delete smth thats not real
 
 ## Normalisations
 Delete repeated groups
-Remove atomised cells
+Remove non-atomic cells (make it 1 value per cell)
 
 ### First normal form
 Using partial keys
