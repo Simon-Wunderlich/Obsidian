@@ -3,32 +3,32 @@ Class: [[Database]]
 - - -
 ![[Armstrongs axioms]]
 
-## Crud anomolies
+## Crud anomalies
 
-### Insert
+#### Insert
 Can't insert element without primary key
 
-### Update
+#### Update
 Can't update smth that dont exist?
 
-### Delete 
+#### Delete 
 Can't delete smth thats not real
 
 
-## Normalisations
+## Normalisation
 Delete repeated groups
 Remove non-atomic cells (make it 1 value per cell)
 
-### First normal form
+#### First normal form
 Using partial keys
 
-### Second normal form
+#### Second normal form
 Already in first normal form AND removed partial dependency (ie columns not relevent to all primary keys)
 
 Only applies to tables with composite keys
 Every non-key column is dependant on all primary keys
 
-### Third normal form
+#### Third normal form
 Required to also be in 1st and 2nd normal forms
 
 Remove transitive dependencies

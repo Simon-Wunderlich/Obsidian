@@ -35,7 +35,7 @@ SELECT one.attr, two.attr, three.attr
 ```
 
 ## Natural Join
-If two tables have the same named attribute, (ie foreign key) u can use NATURAL JOIN to join them
+If two tables have the same named attribute, (ie foreign key) u can use NATURAL JOIN to join them. Not ideal as attr names can change
 ``` sql
 SELECT l.attr, r.attr
 FROM left_table as l
