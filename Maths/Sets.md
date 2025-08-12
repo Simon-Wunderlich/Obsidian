@@ -9,6 +9,7 @@ If $A \cap B = \varnothing$ then they are disjoint
 ![[Pasted image 20250410152314.png]]
 ### Symmetric difference
 ![[Pasted image 20250410152259.png]]
+![[Pasted image 20250612142838.png]]
 
 
 ### Set identities
