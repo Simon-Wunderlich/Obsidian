@@ -8,7 +8,7 @@ Class: [[Programming Studio]] [[UCD]]
 - What role do wireframes play in user interface design?
 	- Give the designer a better sense of layout and functionality of the design in order to identify potential issues or pain points
 
-[[Nielsen Design Principles]]
+![[Nielsen Design Principles]]
 
 ### Good example
 Error prevention
