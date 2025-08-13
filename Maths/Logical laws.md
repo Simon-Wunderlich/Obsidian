@@ -1,10 +1,9 @@
 #### Converse (p$\rightarrow$q)
-q$\rightarrow$p
+q $\rightarrow$ p
 #### Inverse (p$\rightarrow$q)
-$\neg$p$\rightarrow$$\neg$q
+$\neg$p $\rightarrow$ $\neg$q
 #### Contrapositive (p$\rightarrow$q)
-$\neg$q$\rightarrow$$\neg$p
-
+$\neg$q $\rightarrow$ $\neg$p
 
 ## Laws
 #### Idempotent laws
@@ -16,7 +15,7 @@ p $\vee$ p $\equiv$ p
 #### Commutative laws
 p $\vee$ q $\equiv$ q $\vee$ p
 #### Distributive
- p$\vee$(q$\wedge$r) $\equiv$ (p$\vee$q)$\wedge$(p$\vee$r)
+ p $\vee$ (q $\wedge$ r ) $\equiv$ (p $\vee$ q) $\wedge$ (p $\vee$ r)
 
 #### Identity laws
 p $\vee$ F $\equiv$ p
@@ -38,10 +37,10 @@ Distribution of negation
 $\neg$(p $\wedge$ q) $\equiv$ $\neg$p $\vee$ $\neg$q
 
 #### Conditional identities
-p$\rightarrow$q$\equiv$$\neg$p$\vee$q
-p$\leftrightarrow$q$\equiv$(p$\rightarrow$q)$\wedge$(q$\rightarrow$p)
+p $\rightarrow$ q $\equiv$ $\neg$p $\vee$ q
+p $\leftrightarrow$ q $\equiv$ (p $\rightarrow$ q) $\wedge$ (q $\rightarrow$ p)
 
 #### Absorption laws
-p$\vee$(p$\wedge$q)$\equiv$p
+p $\vee$ (p $\wedge$ q) $\equiv$ p
 
 ![[Pasted image 20250411124320.png]]
