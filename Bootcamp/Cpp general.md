@@ -1,7 +1,6 @@
 Created: Aug 07 2025
 Class: [[Bootcamp]] 
 - - -
-
 # Types of constructors
 ```cpp
 //Standard constructor
