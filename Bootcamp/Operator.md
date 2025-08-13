@@ -8,3 +8,4 @@ bool operator>(const Obj& other)
 	return this.attr < other.attr;
 }
 ```
+
