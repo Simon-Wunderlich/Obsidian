@@ -12,5 +12,16 @@ MyClass(int _a)
 //Move constructor
 MyClass(int _a) a(_a) {}
 
+//Copy constructor
+MyClass(MyClass& _myClass){
+	dataObject = new int;
+	dataObject = _myClass.GetDataObject();
+}
+
+//Deconstructor
+~MyClass()
+{
+	delete dataObject;
+}
 ```
 
