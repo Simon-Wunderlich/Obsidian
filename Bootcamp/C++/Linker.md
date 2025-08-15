@@ -1,6 +1,7 @@
 Created: Aug 15 2025
 Class: [[Bootcamp]] 
 - - -
+Converts library dependencies to binary and bundles them into an exe along with the user's object file from the assembler
 # Static
 A binary file for the library dependency is generated during the linker's process. The linker then bundles this in with the user's binary from the assembler. This can lead to redundant binary files being generated for libraries that will be compiled into more than one executable. Typically used for more niche and specific libraries.
 # Dynamic
