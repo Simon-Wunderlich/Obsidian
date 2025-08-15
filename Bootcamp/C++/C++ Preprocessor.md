@@ -2,7 +2,7 @@ Created: Jul 31 2025
 Class: [[Bootcamp]] 
 - - -
 ## Include
-Copies libraries and header files
+Copies libraries and header files and inserts their contents in place of the include statement
 
 ## Define
 Declares any new keywords
