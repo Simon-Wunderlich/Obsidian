@@ -4,6 +4,7 @@ Class: [[Maths]]
 #### Modus ponens
 p $\wedge$ (p $\rightarrow$ q) $\rightarrow$ q
 
+
 #### Modus Tollens
 $\neg$q $\wedge$ (p $\rightarrow$ q) $\rightarrow$ $\neg$q
 
