@@ -3,6 +3,7 @@ Class: [[Bootcamp]]
 - - -
 # Strcpy
 ```cpp
+#include <string>
 char* str1 = "meow";
 char str2[];
 std::strcpy(str1,str2);
