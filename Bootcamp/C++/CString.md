@@ -10,6 +10,7 @@ std::cout << str2; // meow
 ```
 # Strlen
 ```cpp
+#include <string>
 char str[100] = "meow";
-	std::cout << std::strlen(str); //4z
+std::cout << std::strlen(str); // 4
 ```
