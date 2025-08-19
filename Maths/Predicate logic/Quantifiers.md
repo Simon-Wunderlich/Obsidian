@@ -20,4 +20,24 @@ If not all values of x are true, there must exist a value for which P(x) is fals
 ### $$
 \neg \exists  x P(x) \equiv \forall x \neg P(x)
  $$
- If no x Sexists for which P(x) is true, P(x) false for all values of x
+ If no x exists for which P(x) is true, P(x) false for all values of x
+
+# Nested quantifiers
+Read left to right
+$$
+\exists x \exists y \forall z(x*y=z)
+$$
+###### FALSE
+$$
+\forall z \exists x \exists y (x*y=z)
+$$
+###### TRUE
+### Switching quantifiers
+For equations $\exists x \forall y \forall z P(x):$
+$$
+\exists x \forall y \forall z P(x) \not\equiv \forall y \exists x \forall z P(x) 
+$$
+$$
+\exists x \forall y \forall z P(x) \not\equiv \exists x \forall z \forall y P(x) 
+$$
+ie. can swap alike quanitifiers
