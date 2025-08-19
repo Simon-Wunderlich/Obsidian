@@ -40,4 +40,7 @@ $$
 $$
 \exists x \forall y \forall z P(x) \not\equiv \exists x \forall z \forall y P(x) 
 $$
-ie. can swap alike quanitifiers
+ie. can swap alike quantifiers
+### De Morgans law
+![[Pasted image 20250819184336.png]]
+	
