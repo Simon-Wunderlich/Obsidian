@@ -11,7 +11,7 @@ MyClass(int _a)
 
 # Move constructor
 ```cpp
-MyClass(int _a) a(_a) {}
+MyClass(int _a) : a(_a) {}
 ```
 
 # Copy constructor

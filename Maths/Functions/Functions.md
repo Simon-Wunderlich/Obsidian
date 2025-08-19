@@ -28,4 +28,4 @@ $f\circ g= f(g(x))$
 ![[Git/Xournal/Functions.pdf|Functions]]
 
 
-![[Git/Maths/FunctionsExcersises]]
+![[FunctionsExcersises]]
