@@ -12,22 +12,18 @@ MyClass(int _a)
 # Move constructor
 ```cpp
 MyClass(int _a) a(_a) {}
-
 ```
 
 # Copy constructor
 ```cpp
-//Copy constructor
 MyClass(MyClass& _myClass){
 	dataObject = new int;
 	dataObject = *_myClass;
 }
 ```
 
-# Deco
+# Deconstructor
 ```cpp
-
-//Deconstructor
 ~MyClass()
 {
 	delete dataObject;
