@@ -1,14 +1,15 @@
 Mar 28 2025
 Class: [[Maths]]
 - - -
+# Logic
 ### Binary operators
 
-| Operator              | Symbol | Boolean algebra symbol | Example        |
-| --------------------- | ------ | ---------------------- | -------------- |
-| **AND** (conjunction) | ∧      | . or blank             | p∧q, p.q or pq |
-| **OR** (disjunction)  | ∨      | +                      | p∨q, p+q       |
-| **NOT** (negation)    | ¬      | ‾                      | ¬p, $\bar{p}$  |
-| **XOR**               | ⊕      | ⊕                      | p⊕q            |
+| Operator              | Symbol   | Boolean algebra symbol | Example        |
+| --------------------- | -------- | ---------------------- | -------------- |
+| **AND** (conjunction) | ∧        | . or blank             | p∧q, p.q or pq |
+| **OR** (disjunction)  | ∨        | +                      | p∨q, p+q       |
+| **NOT** (negation)    | ¬        | ‾                      | ¬p, $\bar{p}$  |
+| **XOR**               | $\oplus$ | $\oplus$               | p$\oplus$q     |
 
 ### Relation operators
 | Operator      | Symbol            | Explanation                                                       |
@@ -17,7 +18,7 @@ Class: [[Maths]]
 | Implication   | $\rightarrow$     | [[Conditional statements#Conditional operation\|Implication]]     |
 | Biconditional | $\leftrightarrow$ | [[Conditional statements#Biconditional operation\|Biconditional]] |
 
-### Sets
+# Sets
 ![[Pasted image 20250410152226.png]]
 #### Common sets
 | Symbol       | Name       | Set                                     |
@@ -30,7 +31,8 @@ Class: [[Maths]]
 | $\mathbb{C}$ | Complex    | $i$                                     |
 | $\mathbb U$  | Universal  |                                         |
 
-#### Symbols
+#### Set notation
+
 | Symbol        | Name                             |
 | ------------- | -------------------------------- |
 | $\cup$        | Union                            |
