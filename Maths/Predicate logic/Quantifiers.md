@@ -32,12 +32,9 @@ $$
 ###### TRUE
 - - -
 ### Switching quantifiers
-For equations $\exists x \forall y \forall z P(x):$
+$$\exists x \forall y P(x) \not\equiv \forall y \exists x P(x) $$
 $$
-\exists x \forall y \forall z P(x) \not\equiv \forall y \exists x \forall z P(x) 
-$$
-$$
-\exists x \forall y \forall z P(x) \not\equiv \exists x \forall z \forall y P(x) 
+\forall x \forall y P(x) \equiv \forall y \forall x P(x) 
 $$
 ie. can swap alike quantifiers
 ### De Morgans law
