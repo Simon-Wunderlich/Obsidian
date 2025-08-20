@@ -27,7 +27,7 @@ $$
 ### Free variable
 Can take any value in the domain
 $$
-f(x)
+P(x)
 $$
 ### Bound variable
 Is bound to a [[Quantifiers | quantifier]]

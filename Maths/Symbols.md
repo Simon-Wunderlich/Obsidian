@@ -4,23 +4,25 @@ Class: [[Maths]]
 # Logic
 ### Binary operators
 
-| Operator              | Symbol   | Boolean algebra symbol | Example        |
-| --------------------- | -------- | ---------------------- | -------------- |
-| **AND** (conjunction) | ∧        | . or blank             | p∧q, p.q or pq |
-| **OR** (disjunction)  | ∨        | +                      | p∨q, p+q       |
-| **NOT** (negation)    | ¬        | ‾                      | ¬p, $\bar{p}$  |
-| **XOR**               | $\oplus$ | $\oplus$               | p$\oplus$q     |
+| Operator              | Symbol   | LaTeX  | Boolean algebra symbol | Example        |
+| --------------------- | -------- | ------ | ---------------------- | -------------- |
+| **AND** (conjunction) | $\land$  | \land  | . or blank             | p∧q, p.q or pq |
+| **OR** (disjunction)  | $\lor$   | \lor   | +                      | p∨q, p+q       |
+| **NOT** (negation)    | $\neg$   | \neg   | ‾                      | ¬p, $\bar{p}$  |
+| **XOR**               | $\oplus$ | \oplus | $\oplus$               | p$\oplus$q     |
 
 ### Relation operators
-| Operator      | Symbol            | Explanation                                                       |
-| ------------- | ----------------- | ----------------------------------------------------------------- |
-| Equivalence   | $\equiv$          | [[Conditional statements#Logical equivalence \| Equivalence]]     |
-| Implication   | $\rightarrow$     | [[Conditional statements#Conditional operation\|Implication]]     |
-| Biconditional | $\leftrightarrow$ | [[Conditional statements#Biconditional operation\|Biconditional]] |
+| Operator      | Symbol            | LaTex           | Explanation                                                       |
+| ------------- | ----------------- | --------------- | ----------------------------------------------------------------- |
+| Equivalence   | $\equiv$          | \equiv          | [[Conditional statements#Logical equivalence \| Equivalence]]     |
+| Implication   | $\rightarrow$     | \rightarrow     | [[Conditional statements#Conditional operation\|Implication]]     |
+| Biconditional | $\leftrightarrow$ | \leftrightarrow | [[Conditional statements#Biconditional operation\|Biconditional]] |
 
 # Sets
 ![[Pasted image 20250410152226.png]]
 #### Common sets
+LaTeX: \mathbb{_}
+
 | Symbol       | Name       | Set                                     |
 | ------------ | ---------- | --------------------------------------- |
 | $\mathbb{N}$ | Natural    | $\{0, 1, \cdots \}$                     |
@@ -33,13 +35,14 @@ Class: [[Maths]]
 
 #### Set notation
 
-| Symbol        | Name                             |
-| ------------- | -------------------------------- |
-| $\cup$        | Union                            |
-| $\cap$        | Intersection                     |
-| $\subset$     | Proper subset (cannot be equal)  |
-| $\subseteq$   | Subset                           |
-| $\supset$     | Proper superset (greater than)   |
-| $\supseteq$   | Superset (greater than or equal) |
-| $\forall$     | For all                          |
-| $\varnothing$ | Null set                         |
+| Name                             | Symbol        | LaTeX       |
+| -------------------------------- | ------------- | ----------- |
+| Union                            | $\cup$        | \cup        |
+| Intersection                     | $\cap$        | \cap        |
+| Proper subset (cannot be equal)  | $\subset$     | \subset     |
+| Subset                           | $\subseteq$   | \subseteq   |
+| Proper superset (greater than)   | $\supset$     | \supset     |
+| Superset (greater than or equal) | $\supseteq$   | \supseteq   |
+| For all                          | $\forall$     | \forall     |
+| There exists                     | $\exists$     | \exists     |
+| Null set                         | $\varnothing$ | \varnothing |
