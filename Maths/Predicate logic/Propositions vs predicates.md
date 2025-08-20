@@ -1,3 +1,6 @@
+Created: Aug 20 2025
+Class: [[Maths]] 
+- - -
 # Proposition
 
 $$
