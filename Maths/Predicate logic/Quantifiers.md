@@ -1,4 +1,4 @@
-		Created: Aug 19 2025
+Created: Aug 19 2025
 Class: [[Maths]]
 - - -
 # For all 
@@ -23,11 +23,11 @@ If not all values of x are true, there must exist a value for which P(x) is fals
 # Nested quantifiers
 Read left to right
 $$
-\exists x \exists y \forall z(x*y=z)
+\exists x \forall y(x+y=0)
 $$
 ###### FALSE
 $$
-\forall z \exists x \exists y (x*y=z)
+\forall x \exists y(x+y=0)
 $$
 ###### TRUE
 - - -
