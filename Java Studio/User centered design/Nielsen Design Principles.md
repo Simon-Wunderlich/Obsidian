@@ -1,4 +1,4 @@
-nCreated: Apr 27 2025
+Created: Apr 27 2025
 Class: [[Ideation]] 
 - - -
 ### Visibility of System Status

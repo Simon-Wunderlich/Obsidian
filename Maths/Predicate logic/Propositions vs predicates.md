@@ -1,4 +1,5 @@
 # Proposition
+
 $$
 1+1=2
 $$
@@ -6,9 +7,18 @@ $$
 \forall xP(x)
 $$
 # Predicate
+Function on a domain that returns a true of false value
+##### Single variable
+Property of x
 $$
 1+x=2
 $$
+##### Multi variable
+Relation between x and y
+$$
+x+y=2
+$$
+
 
 ## Bound vs Free variables
 ### Free variable
