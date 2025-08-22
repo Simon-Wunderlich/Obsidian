@@ -52,7 +52,7 @@ Object& operator>>(std::string s)
 	return *this;
 }
 
-//
+//or
 
 std::istream& operator>>(std::istream& is, const Object obj)
 {
