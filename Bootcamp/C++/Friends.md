@@ -15,17 +15,31 @@ class A
 
 class B
 {
+	private:
+		int _num = 5;
+		
 	public:
-		friend void func(A _a)
-		{
-			std::cout << a;
-		}
+		//Non-Member function
+		int _num = 5;
+		friend void func(A _a, B _b)
+		
+		//Whole class as friends
+		friend class A;
+}
+
+void func(A _a, B _b)
+{
+	std::cout << _a.num == _b.num;
 }
 
 A a;
 B b;
 
-b.func(a); //Output: a
+func(a,b); //Output: 5
+
+b.A = a;
+std::cout << b.A.num; //Output: 5
+
 ```
 
 ## Controlled usage
