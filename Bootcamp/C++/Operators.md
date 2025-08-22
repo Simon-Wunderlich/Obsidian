@@ -37,6 +37,7 @@ Object& operator<<(std::string& s)
 
 //or
 
+//(Friend)
 std::ostream& operator<<(std::ostream& os, const Object obj)
 {
 	os << obj.prop;
@@ -54,6 +55,7 @@ Object& operator>>(std::string s)
 
 //or
 
+//(Friend)
 std::istream& operator>>(std::istream& is, const Object obj)
 {
 	is >> obj.prop;
