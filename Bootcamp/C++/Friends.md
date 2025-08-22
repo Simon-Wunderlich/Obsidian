@@ -33,4 +33,4 @@ b.func(a); //Output: a
 Used for when two classes need comprehensive access
 
 ### Non-member function friends
-Used for more spceific operations such as comparisons or manipulations
+Used for more specific operations such as comparisons or manipulations
