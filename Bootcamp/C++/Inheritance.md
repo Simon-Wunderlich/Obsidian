@@ -1,6 +1,8 @@
 Created: Aug 24 2025
 Class: [[Bootcamp]] 
 - - -
+## Regular polymorphism
+#### Compile-time polymorphism
 ```cpp
 class Base
 {
@@ -35,4 +37,27 @@ class Child : public Base
 Child c = Child();
 c.printAll();
 //Output: BASECHILD
+```
+
+## Virtual functions
+#### Runtime polymorphism
+```cpp
+class Base
+{
+	public:
+		virtual void print() {}
+}
+
+class Child : public Base
+{
+	public:
+		void print()
+		{
+			std::cout << "CHILD";
+		}
+}
+
+Child c = Child();
+c.print();
+//Output: CHILD
 ```
