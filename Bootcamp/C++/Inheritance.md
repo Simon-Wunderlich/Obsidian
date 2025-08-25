@@ -1,7 +1,7 @@
 Created: Aug 24 2025
 Class: [[Bootcamp]] 
 - - -
-## Regular polymorphism
+## Static binding
 #### Compile-time polymorphism
 ```cpp
 class Base
@@ -41,6 +41,7 @@ c.printAll();
 
 ## Virtual functions
 #### Runtime polymorphism
+Used for when the compiler cannot determine class. eg 
 ```cpp
 class Base
 {
@@ -48,16 +49,30 @@ class Base
 		virtual void print() {}
 }
 
-class Child : public Base
+class ChildA : public Base
 {
 	public:
 		void print()
 		{
-			std::cout << "CHILD";
+			std::cout << "A";
 		}
 }
 
-Child c = Child();
-c.print();
+class ChildB : public Base
+{
+	public:
+		void print()
+		{
+			std::cout << "B";
+		}
+}
+
+std::vector<Base*> vec;
+vec.push_back(new ChildA());
+vec.push_back(new ChildB());
+for(Base* b : vec)
+{
+	b->print();
+}
 //Output: CHILD
 ```
