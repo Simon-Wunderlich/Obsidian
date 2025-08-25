@@ -5,14 +5,20 @@ Class: [[Bootcamp]]
 class Base
 {
 	public:
+		Base(int _x) : x(_x) {}
 		void print() {
 			std::cout << "BASE";
 		}
+	private:
+		int x;
 }
 
 class Child : public Base
 {
 	public:
+		
+		Child(int _x, int _y) : Base(_x), y(_y) {}
+		
 		void printAll()
 		{
 			Base::print();
@@ -22,6 +28,8 @@ class Child : public Base
 		{
 			std::cout << "CHILD";
 		}
+	private:
+		int y;
 }
 
 Child c = Child();
