@@ -74,5 +74,16 @@ for(Base* b : vec)
 {
 	b->print();
 }
-//Output: CHILD
+//Output: AB
+```
+
+## Object slicing
+```cpp
+Child c;
+Base b = c; //Only keeps base class portion of c
+```
+#### To avoid this:
+```cpp
+Child c;
+Base* b = &c; //Keeps entire Child class
 ```
