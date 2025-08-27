@@ -9,6 +9,12 @@ Only usable for small domains
 ## Universal generalisation
 For larger domains, proof by exhaustion becomes unfeasible. Instead proves arbitrary value from the domain will always satisfy the statement  
 
+## Contrapositive
+![[Contrapositive]]
+
+
+![[Contradiction]]
+
 # Allowed assumptions
 ![[Pasted image 20250826133845.png]]
 
