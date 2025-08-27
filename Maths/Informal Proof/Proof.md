@@ -15,6 +15,9 @@ For larger domains, proof by exhaustion becomes unfeasible. Instead proves arbit
 
 ![[Contradiction]]
 
+## Contradiction
+![[Contradiction]]]
+
 # Allowed assumptions
 ![[Pasted image 20250826133845.png]]
 
