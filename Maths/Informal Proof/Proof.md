@@ -14,7 +14,7 @@ For larger domains, proof by exhaustion becomes unfeasible. Instead proves arbit
 
 
 ![[Contradiction]]
-
+	
 ## Contradiction
 ![[Contradiction]]]
 
