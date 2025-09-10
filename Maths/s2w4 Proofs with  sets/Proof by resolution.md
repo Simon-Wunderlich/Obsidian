@@ -1,9 +1,12 @@
-Created: Sep 05 2025
+Created: Sep 10 2025
 Class: [[Maths]] 
 - - -
-# $\vDash$
-If $A \vDash B$, then in every case in which $A$ is true, then $B$ is also true
+Used to show [[Satisfiability|unsatisfiability]] of a propositional formula and hence prove [[Entailment]]
 
+Prove $KB \vDash \varphi$, where KB (knowledge base) is a set of formulas known to be true, and $\varphi$ is the formula we want to prove is satisfiable
+
+# Main steps
+$\vdots$
 # Resolution methods
 ## Inference
 https://echo360.org.au/media/90b97c81-d70a-446f-a11d-5060efa762f1/public?currentMediaId=6a14b11e-6c55-4f14-aa47-1a55d954ca93
