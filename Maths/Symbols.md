@@ -17,6 +17,7 @@ Class: [[Maths]]
 | Equivalence   | $\equiv$          | \equiv          | [[Conditional statements#Logical equivalence \| Equivalence]]     |
 | Implication   | $\rightarrow$     | \rightarrow     | [[Conditional statements#Conditional operation\|Implication]]     |
 | Biconditional | $\leftrightarrow$ | \leftrightarrow | [[Conditional statements#Biconditional operation\|Biconditional]] |
+| Entails       | $\vDash$          | \vDash          | [[Entailment]]                                                    |
 
 # Sets
 ![[Pasted image 20250410152226.png]]
