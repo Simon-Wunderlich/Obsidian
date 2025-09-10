@@ -22,7 +22,7 @@ Class: [[Maths]]
 # Sets
 ![[Pasted image 20250410152226.png]]
 #### Common sets
-LaTeX: \mathbb{_}
+LaTeX: \mathbb{$\cdots$}
 
 | Symbol       | Name       | Set                                     |
 | ------------ | ---------- | --------------------------------------- |
@@ -44,6 +44,7 @@ LaTeX: \mathbb{_}
 | Subset                           | $\subseteq$   | \subseteq   |
 | Proper superset (greater than)   | $\supset$     | \supset     |
 | Superset (greater than or equal) | $\supseteq$   | \supseteq   |
+| Element of                       | $\in$         | \in         |
 | For all                          | $\forall$     | \forall     |
 | There exists                     | $\exists$     | \exists     |
 | Null set                         | $\varnothing$ | \varnothing |
