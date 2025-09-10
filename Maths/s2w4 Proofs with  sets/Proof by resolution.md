@@ -1,6 +1,5 @@
 Created: Sep 10 2025
 Class: [[Maths]] 
-#unsure 
 - - -
 Used to show [[Satisfiability|unsatisfiability]] of a propositional formula and hence prove [[Entailment]]
 
