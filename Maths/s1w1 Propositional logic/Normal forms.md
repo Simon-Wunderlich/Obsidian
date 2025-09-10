@@ -3,7 +3,7 @@ Class: [[Maths]]
 - - -
 #### Disjunctive normal form
 
-$c_1$ + $c_2$ + $\cdots$ + $c_n$
+$c_1 \lor c_2 \lor \cdots \lor c_n$
 where each $c_j$ is a conjunction of literals
 
 ![[Pasted image 20250404135536.png]]
@@ -12,7 +12,7 @@ Only one needs to be true for satisfaction, can be broken down into clauses
 
 #### Conjunctive normal form
 
-$d_1$$d_2$$\cdots$$d_n$
+$d_1\land d_2\land\cdots\land d_n$
 where each $d_j$ is a disjunction of literals
 
 ![[Pasted image 20250404135726.png]]
