@@ -2,6 +2,11 @@ Created: Aug 27 2025
 Class: [[Maths]] 
 - - -
 $$
+(p \rightarrow c) \leftrightarrow
+(\neg c \rightarrow \neg p)
+$$
+- - -
+$$
 For: p\rightarrow c
 $$
 $$
