@@ -1,3 +1,6 @@
+Created: Sep 13 2025
+Class: [[Programming Studio]] 
+- - -
 ## Navigation
 How pages are  connected
 
