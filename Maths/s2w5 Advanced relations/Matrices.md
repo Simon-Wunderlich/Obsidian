@@ -45,7 +45,10 @@ A_{2,1}\times B_{1,1} + A_{2, 2} \times B_{2,1}  & A_{2,1}\times B_{1,2} + A_{2,
 \begin{bmatrix}
 1 & 1 \\
 1 & 0
-\end{bmatrix}
+\end{bmatrix}\\
+\\
+\therefore (A\times B)_{y,x} = A_{row \space y}  \times B_{column \space x}
+
 \end{matrix}
 $$
 ##### Boolean arithmetic
