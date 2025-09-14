@@ -63,3 +63,4 @@ $$
 0 \times 0 = 0
 
 \end{matrix}$$
+(+ = OR, x = AND)
