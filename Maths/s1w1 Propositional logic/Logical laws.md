@@ -14,9 +14,10 @@ p $\vee$ p $\equiv$ p
 
 #### Commutative laws
 p $\vee$ q $\equiv$ q $\vee$ p
+
 #### Distributive
  p $\vee$ (q $\wedge$ r ) $\equiv$ (p $\vee$ q) $\wedge$ (p $\vee$ r)
-
+ $(p\land q) \lor (r \land s) \equiv (p \lor r) \land (p \lor s)\land (q \lor r) \land (q \lor s)$
 #### Identity laws
 p $\vee$ F $\equiv$ p
 p $\wedge$ T $\equiv$ p
