@@ -32,7 +32,6 @@ $(11111111) \space overflows \space  to \space -1$
 2. 
 $not(x) +1 = -x$
 
-
 - - -
 
 > Example 

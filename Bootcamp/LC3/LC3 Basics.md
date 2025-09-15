@@ -19,7 +19,7 @@ HALT
 X .FILL x3100
 ```
 
-# Negation
+# [[Two's complement|Negation]]
 ```
 NOT r0, r0
 ADD r0, r0, #1
