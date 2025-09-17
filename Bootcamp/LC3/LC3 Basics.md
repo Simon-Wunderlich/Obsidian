@@ -12,11 +12,13 @@ X .FILL #32
 ```
 ## Load at address
 ```
-LDI r0, X
-
+LD r0, MEM
+LD r1, X
+STR r1, r0, #0
 HALT
 
-X .FILL x3100
+MEM .FILL x3100
+X .FILL #35
 ```
 
 # [[Two's complement|Negation]]

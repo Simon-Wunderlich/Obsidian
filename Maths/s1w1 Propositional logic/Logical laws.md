@@ -1,4 +1,4 @@
-#### Converse (p$\rightarrow$q)
+	#### Converse (p$\rightarrow$q)
 q $\rightarrow$ p
 #### Inverse (p$\rightarrow$q)
 $\neg$p $\rightarrow$ $\neg$q

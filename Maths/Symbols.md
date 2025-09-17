@@ -48,3 +48,10 @@ LaTeX: \mathbb{$\cdots$}
 | For all                          | $\forall$     | \forall     |
 | There exists                     | $\exists$     | \exists     |
 | Null set                         | $\varnothing$ | \varnothing |
+
+#### Relations
+
+| Name                                        | Symbol    | LaTeX   |
+| ------------------------------------------- | --------- | ------- |
+| Edge exists<span style="color:red">*</span> | $\preceq$ | \preceq |
+| Composition of relations                    | $\circ$   | \circ   |
