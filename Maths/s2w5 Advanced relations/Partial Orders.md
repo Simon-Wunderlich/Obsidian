@@ -3,7 +3,7 @@ Class: [[Maths]]
 - - -
 # Definition
 A relation $R$ on set $A$ is a partial order if it is reflexive, transitive, and anti-symmetric.
-
+For partial orders:
 $$a\preceq b \equiv aRb$$
 # Comparison
 Nodes $x$ and $y$ are comparable if $x \preceq y$ or $y \preceq x$. A partial order is a total order if all nodes are comparable.
