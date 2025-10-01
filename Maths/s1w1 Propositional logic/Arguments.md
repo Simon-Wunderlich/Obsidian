@@ -1,5 +1,5 @@
 Created: Apr 03 2025
-Class: [[Maths]]
+Class: [[Propositional logic]]
 - - -
 $h_1$
 $h_2$

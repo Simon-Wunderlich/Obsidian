@@ -1,5 +1,5 @@
 Created: Apr 04 2025
-Class: [[Maths]] 
+Class: [[Propositional logic]] 
 - - -
 State hypothesises before you use them
 Number lines to use

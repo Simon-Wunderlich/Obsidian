@@ -10,14 +10,14 @@ $$
 $$
 \langle v_0, v_1, \cdots, v_n \rangle
 $$
-Length of walk is number of edges traversed in walk
+Length of walk is number of edges traversed in walk 
 ### Open walk
 Start and end nodes are not the same
 ### Closed walk
 Start and end nodes are the same
 
 ### Trail
-A walk in which no edge more than once
+A walk in which no **edge** more than once
 
 ### Path
 A walk in which no node is visited more than once
@@ -26,5 +26,5 @@ A walk in which no node is visited more than once
 Closed [[#Trail |trail]]
 
 ### Cycle
-A [[#Circuit|circuit]] of length $\geq$ 1 in which no node is visited more than once, except for the start and end nodes
+A [[#Circuit|circuit]] of length $\geq$ 1 in which no **node** is visited more than once, except for the start and end nodes
 

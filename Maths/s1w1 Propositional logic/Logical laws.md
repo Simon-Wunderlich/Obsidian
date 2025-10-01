@@ -1,4 +1,7 @@
-	#### Converse (p$\rightarrow$q)
+Created: Oct 01 2025
+Class: [[Propositional logic]] 
+- - -
+#### Converse (p$\rightarrow$q)
 q $\rightarrow$ p
 #### Inverse (p$\rightarrow$q)
 $\neg$p $\rightarrow$ $\neg$q

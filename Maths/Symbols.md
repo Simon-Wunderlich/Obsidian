@@ -55,4 +55,4 @@ LaTeX: \mathbb{$\cdots$}
 | ------------------------------------------- | --------- | ------- |
 | Edge exists<span style="color:red">*</span> | $\preceq$ | \preceq |
 | Composition of relations                    | $\circ$   | \circ   |
-| Equivalence                                 | $\sim$    |         |
+| Equivalence                                 | $\sim$    | \sim    |

@@ -1,5 +1,5 @@
 Created: Apr 11 2025
-Class: [[Maths]] [[Sets]]
+Class: [[Sets]]
 - - -
 # $A \times B = \{ (a,b) : a \in A \space and \space b \in B \}$
 

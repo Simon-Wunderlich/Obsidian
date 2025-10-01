@@ -1,5 +1,5 @@
 Created: Apr 04 2025
-Class: [[Maths]]
+Class: [[Propositional logic]]
 - - -
 #### Modus ponens
 p $\wedge$ (p $\rightarrow$ q) $\rightarrow$ q

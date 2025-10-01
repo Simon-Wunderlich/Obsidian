@@ -1,5 +1,5 @@
 Mar 28 2025
-Class: [[Maths]]
+Class: [[Propositional logic]]
 - - -
 ##### Conditional operation
 p$\rightarrow$q

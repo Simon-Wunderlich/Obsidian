@@ -1,5 +1,5 @@
 Created: Aug 20 2025
-Class: [[Maths]] 
+Class: [[Predicate Logic]] 
 - - -
 # Proposition
 

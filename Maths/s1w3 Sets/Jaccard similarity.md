@@ -1,5 +1,5 @@
 Created: Apr 11 2025
-Class: [[Maths]] [[Sets]]
+Class: [[Sets]]
 - - -
 
 # $\frac{|A \cap B|}{|A \cup B|}$

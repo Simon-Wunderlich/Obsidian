@@ -1,5 +1,5 @@
 Created: Apr 11 2025
-Class: [[Maths]] [[Sets]] 
+Class: [[Sets]] 
 - - -
 A partition is a set of sets 
 $P_A = \{ A_1, A_2, \cdots, A_n\}$

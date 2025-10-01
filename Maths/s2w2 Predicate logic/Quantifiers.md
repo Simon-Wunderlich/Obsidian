@@ -1,5 +1,5 @@
 Created: Aug 19 2025
-Class: [[Maths]]
+Class: [[Predicate Logic]]
 - - -
 # For all 
 ## $\forall xP(x)$ 
