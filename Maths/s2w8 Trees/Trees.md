@@ -6,8 +6,9 @@ Acyclic
 Undirected
 Connected
 Corrected [[Directed acyclic graph]]
-$Num \space edges = num \space verticies$
-$Num \space leaves >= 2$ if more than 1 node
+$Num \space edges = num \space verticies - 1$
+$Num \space leaves \geq 2$ if more than 1 node
+$\chi(G) = 2$
 # Tree types
 Types of rearranging the same trees
 ## Free
