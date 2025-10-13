@@ -2,7 +2,7 @@ Created: Oct 13 2025
 Class: [[Bootcamp]] 
 - - -
 ```cpp
-for(int i = 0; i < argc; i++)
+for(int i = 1; i < argc; i++)
 {
 	std::string arg = argv[i];
 	
