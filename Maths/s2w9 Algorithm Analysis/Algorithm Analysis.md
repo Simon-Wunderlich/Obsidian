@@ -7,6 +7,7 @@ $$\lim_{n \rightarrow \infty} \frac{f(n)}{g(n)} < \infty$$
 # Big-$\Omega$
 Best case
 $$\lim_{n \rightarrow \infty} \frac{f(n)}{g(n)} > 0$$
+$f$ is  $\Omega(g)$ iff $g$ is $O(f)$ 
 # Big-$\Theta$
 Average case
 f is $\theta(g)$ if constants $c_1, c_2$ exists such that
