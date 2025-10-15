@@ -1,0 +1,19 @@
+Created: Oct 15 2025
+Class: [[Maths]] 
+- - -
+# Big-O
+Worst case
+$$\lim_{n \rightarrow \infty} \frac{f(n)}{g(n)} < \infty$$
+# Big-$\Omega$
+Best case
+$$\lim_{n \rightarrow \infty} \frac{f(n)}{g(n)} > 0$$
+# Big-$\Theta$
+Average case
+f is $\theta(g)$ if constants $c_1, c_2$ exists such that
+$$
+c_1*g(n) \geq f(n) \geq c_2*g(n)
+$$
+$$
+\lim_{n \rightarrow \infty} \frac{f(n)}{g(n)} = c, c \in \mathbb{R}
+$$
+ie f(n) and g(n) are the same class of n
