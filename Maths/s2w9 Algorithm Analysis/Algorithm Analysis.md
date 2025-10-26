@@ -22,4 +22,4 @@ ie f(n) and g(n) are the same complexity class of n
 # Notes
 $O(log_a (n) = O(log_b (n)$
 as $log_a (n) = log_b (a) * log_b (n)$
-and $log_b (a)$ is 
+and $log_b (a)$ is constant

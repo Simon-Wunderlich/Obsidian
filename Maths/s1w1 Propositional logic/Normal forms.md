@@ -1,9 +1,9 @@
-Created: Apr 04 2025
+	Created: Apr 04 2025
 Class: [[Propositional logic]]
 - - -
 #### Disjunctive normal form
 
-$c_1 \land c_2 \land \cdots \land c_n$
+$d_1\lor d_2\lor\cdots\lor d_n$
 where each $c_j$ is a conjunction of literals
 
 ![[Pasted image 20250404135536.png]]
@@ -11,8 +11,7 @@ where each $c_j$ is a conjunction of literals
 Only one needs to be true for satisfaction, can be broken down into clauses
 
 #### Conjunctive normal form
-
-$d_1\lor d_2\lor\cdots\lor d_n$
+$c_1 \land c_2 \land \cdots \land c_n$
 where each $d_j$ is a disjunction of literals
 
 ![[Pasted image 20250404135726.png]]

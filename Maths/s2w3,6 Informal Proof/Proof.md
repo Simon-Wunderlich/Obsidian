@@ -1,4 +1,4 @@
- Created: Aug 26 2025
+	 Created: Aug 26 2025
 Class: [[Maths]] 
 - - -
 # Types of proof
