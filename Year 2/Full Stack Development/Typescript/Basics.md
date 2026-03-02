@@ -53,7 +53,13 @@ interface A {
 	readonly var2: type; //Readonly (const)
 	var3?: type; //Optional
 }
+
+interface B extends A {
+	var4 : type4;
+}
+
 let a:A = {var1: value, var2:value, var3:value};
+let b:B = {var1: value, var2:value, var4:value};
 ```
 # Collections
 ## Array
