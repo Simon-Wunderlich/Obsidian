@@ -16,10 +16,10 @@ Must include:
 #### Description
 Plan driven
 Separate and sequential phases for 
-- Specification
-- Design and implementation
-- Validation
-- Evolution 
+	- Specification
+	- Design and implementation
+	- Validation
+	- Evolution 
 ![[Pasted image 20260308125045.png]]
 #### Disadvantages
 - Impossible to know all requirements up front 
