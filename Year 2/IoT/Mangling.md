@@ -10,4 +10,3 @@ mangledName_ = 4
 __mangledName__ = 6
 ```
 Technique to solve various problems caused by the need to resolve unique names for programming entities in many programming languages.
-
