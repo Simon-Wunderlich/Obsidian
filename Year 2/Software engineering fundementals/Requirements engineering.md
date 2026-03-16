@@ -8,7 +8,7 @@ Should address
 - Constraints
 Must be
 - Complete
-	- Include descriptions of all ficilities 
+	- Include descriptions of all facilities 
 - Consistent
 	- No contradictions
 # System requirements
@@ -30,4 +30,4 @@ Must be
 - System managers
 - System owners
 - External stakeholders
-- 
+![[Functional vs Non-Functional]]

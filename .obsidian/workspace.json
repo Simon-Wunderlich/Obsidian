@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/Software engineering fundementals/Requirements engineering.md",
+                "file": "Year 2/Software engineering fundementals/Functional vs Non-Functional.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Requirements engineering"
+              "title": "Functional vs Non-Functional"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "93425fbdc426958d",
@@ -186,9 +187,9 @@
   },
   "active": "fbf9604a5d71786e",
   "lastOpenFiles": [
+    "Year 2/Software engineering fundementals/Requirements engineering.md",
     "Year 2/Software engineering fundementals/Functional vs Non-Functional.md",
     "Pasted image 20260316115315.png",
-    "Year 2/Software engineering fundementals/Requirements engineering.md",
     "Year 2/Software engineering fundementals/Software process description.md",
     "Pasted image 20260314180907.png",
     "Year 2/Software engineering fundementals/Assignments.md",

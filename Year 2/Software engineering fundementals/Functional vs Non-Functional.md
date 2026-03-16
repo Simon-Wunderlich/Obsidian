@@ -17,3 +17,16 @@ Describe system services in detail
 	- Standards
 	- Resources
 - Impacts whole system
+- May generate a number of functional requirements
+## Product requirements
+Specify behaviour of delivered product
+- Execution speed
+- Reliability
+## Organisational requirements
+Consequence of organisational policies and procedures
+- Process standards used
+- Implementation requirements
+## External requirements
+Requirements which arise from  factors external to system
+- Interoperability requirements
+- Legislature
