@@ -1,7 +1,7 @@
 Created: Mar 16 2026
 Class:  [[Full stack development]]
 - - -
-# Conditional rendering
+# Logical &&
 ```ts
 <>
 	{ var1 == "show" && (
@@ -12,7 +12,7 @@ Class:  [[Full stack development]]
 # Ternary
 ```ts
 <>
-	{ (var1 == "show") ? (
+	{(var1 == "show") ? (
 		<p>Showing element</p>
 	) : (
 		<p>Hiding element</p>
