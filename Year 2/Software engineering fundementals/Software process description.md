@@ -63,3 +63,5 @@ Iterations between 2-6 weeks
 - Component selection and design
 	- Search for reusable components
 		- If unavailable, design how it will operate
+		
+![[Pasted image 20260314180907.png]]

@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "405e905c16abacf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6146cfc02e452c82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbf9604a5d71786e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/Software engineering fundementals/Requirements engineering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Requirements engineering"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5fef62fae1b5e277",
+    "type": "split",
+    "children": [
+      {
+        "id": "45af5e11789217b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23625df62b82bc49",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d957f6800bb22611",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "21fbc27e5ec5f991",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "93425fbdc426958d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e5069e22484d00b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15266eb2ef2e7562",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Year 2/Software engineering fundementals/Software process description.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Software process description"
+            }
+          },
+          {
+            "id": "7ca44db0e16c9a5c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Year 2/Software engineering fundementals/Software process description.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Software process description"
+            }
+          },
+          {
+            "id": "8bb2bb68e7ec3b22",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ac5ff33c02211431",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3f6c314fd4228f14",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Year 2/Software engineering fundementals/Software process description.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Software process description"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "fbf9604a5d71786e",
+  "lastOpenFiles": [
+    "Pasted image 20260316130109.png",
+    "Year 2/Software engineering fundementals/Requirements.md",
+    "Year 2/Software engineering fundementals/Requirements engineering.md",
+    "Pasted image 20260316124131.png",
+    "Year 2/Software engineering fundementals/Functional vs Non-Functional.md",
+    "Pasted image 20260316115315.png",
+    "Year 2/Software engineering fundementals/Software process description.md",
+    "Pasted image 20260314180907.png",
+    "Year 2/Software engineering fundementals/Assignments.md",
+    "Untitled.base"
+  ]
+}
