@@ -18,6 +18,8 @@ Describe system services in detail
 	- Resources
 - Impacts whole system
 - May generate a number of functional requirements
+- Should be **testable**
+- Stakeholders usually provide non functional requirements as general goals
 ## Product requirements
 Specify behaviour of delivered product
 - Execution speed

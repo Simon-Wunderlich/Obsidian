@@ -1,33 +1,60 @@
-Created: 16/03/2026
+Created: Mar 16 2026
 Class: [[Software engineering fundamentals]] 
 - - -
-Can range from high level abstract to in depth functional specification
+![[Pasted image 20260316124131.png]]
+# Requirements elicitation
+Work with stakeholders
+- Application domain
+- Services required
+- Required system performance
+- Hardware constraints
+- Other systems
+## Difficulties
+- Stakeholders struggle to express their requirements
+	- Don't know what they want
+- Express requirements in their own terms
+- Conflicting requirements between users
+- Organisational and political factors may influence system requirements
+- Requirements may change
+	- New stakeholders
+	- Business environment may change
+## Stages
+Discovery
+- Interact with stakeholders to discover requirements
+Classification & organisation
+- Group related requirements and organise them into coherent clusters
+Prioritisation & negotiation
+- Prioritise requirements and resolve requirement conflicts
+Specification
+- Requirements are documented and input back into first stage
 
-Should address
-- Services
-- Constraints
-Must be
-- Complete
-	- Include descriptions of all facilities 
-- Consistent
-	- No contradictions
-# System requirements
-- Written for developers
-- Structured document
-- Functions
-- Services
-- Constraints
-- Define what should be implemented
-# User requirements
-- Written for customers
-- Natural language
-- Diagrams
-- Services
-- Constraints
+## Techniques
+- Interview
+	- Overall understanding of stakeholder behaviour
+	- Potential interactions with the system
+	- Closed
+		- Set questions
+	- Open
+		- Issues are explored via discussion 
+	- Not suitable for domain requirements
+- Observation
+	- Effective to understand existing process
+	- Suitable to understand implicit system requirements
+	- Helps understand social, political and organisational issues.
 
-# Stakeholders
-- End users
-- System managers
-- System owners
-- External stakeholders
-![[Functional vs Non-Functional]]
+# Software Requirements Specification
+What the system should do. Not how
+![[Pasted image 20260316130109.png]]
+# Requirement validation
+Ensuring the requirements reflect accurately what the user wants
+- Validity checks
+	- Provides user's functions?
+- Consistency check
+- Completeness check
+- Realism check
+	- If requirements are realistic
+## Techniques
+- Reviews 
+	- Reviewers manually and systematicall review each requirement
+- Prototyping
+- Test case generation 
