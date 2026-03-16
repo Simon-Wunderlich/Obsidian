@@ -11,5 +11,6 @@ sense.set_pixel(0, 0, (255,255))
 
 sense.get_pressure()
 sense.get_temperature()
-sense.get_humidity:()
+sense.get_humidity()
+sense.get_accelerometer_raw()
 ```
