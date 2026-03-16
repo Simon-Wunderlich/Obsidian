@@ -12,7 +12,7 @@ function Component() {
 	const [formData, setFormData] = useState<FormData | null>(null);
 	
 	// Update form data on change
-	const handleChange = (e) {
+	const handleChange = (e : HTMLInputElement) {
 		const {name, value} = e.target;
 		setFormData((prevState) => {
 			...prevState,
@@ -20,10 +20,9 @@ function Component() {
 		});
 	};
 	
-	const submit = () => {
+	const submit = (e: FormEvent) => {
 		console.log(formData)
 	};
-	
 	
 	return (
 	<form onSubmit={submit()}>
