@@ -8,4 +8,8 @@ from sense_hat import SenseHat
 sense = SenseHat()
 sense.show_message("hello world")
 sense.set_pixel(0, 0, (255,255))
+
+sense.get_pressure()
+sense.get_temperature()
+sense.get_humidity:()
 ```
