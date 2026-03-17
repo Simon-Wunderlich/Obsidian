@@ -42,3 +42,27 @@ F(n)=n-1\\
 $$
 # Empirical analysis
 Just measure it lmao
+When designing experiments:
+1. Understand the experiment’s purpose.
+2. Decide on the efficiency metric M to be measured and the
+measurement unit (an operation’s count vs. a time unit).
+3. Decide on characteristics of the input sample (its range, size, and
+so on).
+4. Prepare a program implementing the algorithm (or algorithms) for
+the experimentation.
+5. Generate a sample of inputs.
+6. Run the algorithm (or algorithms) on the sample’s inputs and
+record the data observed.
+7. Analyse the data obtained.
+
+# Rules of thumb
+## O(1)
+Typically algorithms or data structures whose operations does not
+depend on input size.
+## O(n)
+Typically algorithms or data structures whose operations that
+needs to evaluate most or all of the elements of an problem (input
+size).
+## O(n$^2$)
+Typically algorithms or data structures whose operations that
+needs to process/evaluate pairs of elements of an problem
