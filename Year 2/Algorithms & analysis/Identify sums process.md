@@ -1,5 +1,6 @@
 - Determine parameter for input size
 - Identify basic operation
-- Eyeball it
+- Determine if there is an early out clause
+	- That is if best / worst / average case are the same
 - Write sum in terms of how many times your basic operation is run
 	- If it is run twice per loop, write 2 
