@@ -1,0 +1,5 @@
+- Determine what var determines growth 
+- Identify basic operation
+- Eyeball it
+- Write sum in terms of how many times your basic operation is run
+	- If it is run twice per loop, write 2 
