@@ -1,4 +1,4 @@
-- Determine what var determines growth 
+- Determine parameter for input size
 - Identify basic operation
 - Eyeball it
 - Write sum in terms of how many times your basic operation is run
