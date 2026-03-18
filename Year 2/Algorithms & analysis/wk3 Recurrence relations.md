@@ -1,6 +1,13 @@
 Created: Mar 17 2026
 Class: [[Algorithms & analysis]] 
 - - -
+$$
+\{
+\begin{aligned}
+  C(n)=C(n-1) + 1  \space Reccurence \space equation \\
+  C(1) = 0 \space Base \space Case
+\end{aligned}
+$$
 # Backwards substitution
 1. Define recurrence relation
 $F(n)=F(n-1)+1$
