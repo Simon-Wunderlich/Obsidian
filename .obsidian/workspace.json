@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "Assignment 1"
             }
+          },
+          {
+            "id": "373a015f8faa8546",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/Software engineering fundementals/Functional vs Non-Functional.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Functional vs Non-Functional"
+            }
           }
         ]
       }
@@ -197,8 +211,9 @@
   },
   "active": "fbf9604a5d71786e",
   "lastOpenFiles": [
-    "Year 2/Software engineering fundementals/Requirements engineering.md",
+    "Year 2/Software engineering fundementals/Functional vs Non-Functional.md",
     "Year 2/Software engineering fundementals/Assignment 1.md",
+    "Year 2/Software engineering fundementals/Requirements engineering.md",
     "Year 2/Full Stack Development/React/useEffect.md",
     "Year 2/Full Stack Development/React/State.md",
     "Year 2/Full Stack Development/React/Page router.md",
@@ -214,7 +229,6 @@
     "Pasted image 20260316130109.png",
     "Year 2/Software engineering fundementals/Requirements.md",
     "Pasted image 20260316124131.png",
-    "Year 2/Software engineering fundementals/Functional vs Non-Functional.md",
     "Pasted image 20260316115315.png",
     "Year 2/Software engineering fundementals/Software process description.md",
     "Pasted image 20260314180907.png",
