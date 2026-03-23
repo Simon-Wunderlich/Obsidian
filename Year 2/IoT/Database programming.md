@@ -1,11 +1,12 @@
 Created: Mar 23 2026
 Class: [[IoT]] 
 - - -
+# MySQL
 ```
 pip install mysql-connector-python
 ```
 
-# Create DB
+## Create DB
 ```python
 mydb = mysql.connector.connect(
 	host="localhost",
@@ -18,7 +19,7 @@ mycursor = mydb.cursor()
 mycursor.execute("CREATE DATABASE mydatabase")
 ```
 
-# Connect to DB
+## Connect to DB
 ```python
 mydb = mysql.connector.connect(
 	host="localhost",
@@ -30,4 +31,16 @@ mydb = mysql.connector.connect(
 mycursor = mydb.cursor()  
   
 mycursor.execute("SELECT * from TABLE_1")
+```
+
+# SQLite3
+```
+pip install sqlite3
+```
+
+## Connect to DB
+```python
+sql = sqlite3.connect('database.db')
+cursor = sql.cursor()
+cursor.execute("SELECT * FROM TABLE_1")
 ```
