@@ -6,6 +6,7 @@ Class: [[Software engineering fundamentals]]
 - Services system should provide
 - How the system reacts to particular inputs / in particular situations
 - May state what the system should not do
+- Also testable
 ## Functional user requirements
 Describe in high level what the system should do
 ## Functional system requirements
