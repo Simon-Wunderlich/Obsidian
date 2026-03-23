@@ -40,7 +40,7 @@ pip install sqlite3
 
 ## Connect to DB
 ```python
-sql = sqlite3.connect('database.db')
+sql = sqlite3.connect('database_name.db')
 cursor = sql.cursor()
 cursor.execute("SELECT * FROM TABLE_1")
-```
+	```x
