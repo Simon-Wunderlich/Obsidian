@@ -12,6 +12,7 @@ Activity 1
 | F8  | The system will be able to correct for wrong turns                                   | If the user makes a wrong turn, the system will reroute its instructions to navigate to the next stop from the bus' current position                                                                                                                    |
 | F9  | The system shall provide alerts when the user is in an active school zone            | By providing alerts when in an active school zone, the system can ensure the user is fully informed, mitigating potential risks                                                                                                                         |
 | F10 | The system shall provide information of how far ahead or behind schedule the user is | By providing clear information about how far ahead or behind schedule, as well as how close they are to other busses on the route, the system can allow the user to make informed decisions regarding their driving and how long they stay at each stop |
+| F11 | The admins will be able to define routes and bus stop positions                      | System administrators need to be able to define where each route goes.                                                                                                                                                                                  |
 
 
 
