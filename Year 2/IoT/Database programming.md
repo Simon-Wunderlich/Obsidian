@@ -1,16 +1,33 @@
 Created: Mar 23 2026
 Class: [[IoT]] 
 - - -
+```
+pip install mysql-connector-python
+```
 
-| CHar | desc            | example |
-| ---- | --------------- | ------- |
-| .    | wildcard        | h.llo   |
-| ^    | begins with     | ^hello  |
-| []   | character set   | [0-9]   |
-| \|   | or              | hi\|bye |
-| +    | one or more     | .+      |
-| *    | zero or more    | .*      |
-| {}   | exact num times | hi{4}   |
-| $    | end of line     | bug$    |
-| \d   | digit           | \d      |
-| \w   | char            |         |
+# Create DB
+```python
+mydb = mysql.connector.connect(
+	host="localhost",
+	user="yourusername",
+	password="yourpassword"
+)
+
+mycursor = mydb.cursor()  
+  
+mycursor.execute("CREATE DATABASE mydatabase")
+```
+
+# Connect to DB
+```python
+mydb = mysql.connector.connect(
+	host="localhost",
+	user="yourusername",
+	password="yourpassword",
+	database="database
+)
+
+mycursor = mydb.cursor()  
+  
+mycursor.execute("SELECT * from TABLE_1")
+```
