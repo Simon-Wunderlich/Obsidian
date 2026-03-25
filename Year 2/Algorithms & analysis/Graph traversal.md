@@ -24,7 +24,7 @@ List in which nodes are popped (Topological sort)
 ## Push order
 List in which nodes are pushed (Traversal order)
 ## Articulation points
-Can be used to find nodes which when removed will create two disconnected component
+Can be used to find nodes which when removed will create two disconnected components
 # BFS
 ## Enqueue order
 List in which nodes are enqueued (traversal order)
