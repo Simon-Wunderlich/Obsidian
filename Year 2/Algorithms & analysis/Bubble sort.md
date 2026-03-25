@@ -33,5 +33,3 @@ AELMEPX
 AEL
 ETC
 
-^^^^^^^^^^ Don't need to show this
-
