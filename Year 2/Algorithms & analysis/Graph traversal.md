@@ -26,6 +26,3 @@ List in which nodes are pushed (Traversal order)
 List in which nodes are enqueued (traversal order)
 ## Dequeue order
 Same as enqueue order
-
-[a,b,d,f,c,g,e]
-[f,d,b,e,g,c,a]
