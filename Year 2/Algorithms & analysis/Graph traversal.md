@@ -1,7 +1,9 @@
 Created: Mar 25 2026
 Class: [[Algorithms & analysis]] 
 - - -
-
+## Complexity
+Adj Matrix: $\Theta (|V|^2)$
+Adj List: $\Theta (|V| + |E|)$
 ## Search tree
 Show graph reshaped as tree by the traversal of the algorithm. 
 Remove all unvisited edges. - Tree by definition.
@@ -17,13 +19,12 @@ for x in V:
 
 
 # DFS
-Adj Matrix: $\Theta (|V|^2)$
-Adj List: $\Theta (|V| + |E|)$
-
 ## Pop order
 List in which nodes are popped (Topological sort)
 ## Push order
 List in which nodes are pushed (Traversal order)
+## Articulation points
+Can be used to find nodes which when removed will create two disconnected component
 # BFS
 ## Enqueue order
 List in which nodes are enqueued (traversal order)
