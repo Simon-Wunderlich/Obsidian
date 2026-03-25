@@ -3,6 +3,18 @@ Class: [[Algorithms & analysis]]
 - - -
 # Swaps pairs n^2 times. Each iteration block pushes largest element to sorted position in back. Do regular swaps for all elements before largest element
 EXAMPLE
+Bubble x
+EAMPLEX
+Bubble P
+AEMLEPX
+Bubble M
+AELEMPX
+Bubble L
+AEELMPX
+
+### Iteration breakdown
+
+EXAMPLE
 EAXMPLE
 EAMXPLE
 EAMPXLE
@@ -23,24 +35,3 @@ ETC
 
 ^^^^^^^^^^ Don't need to show this
 
-EXAMPLE
-Bubble x
-EAMPLEX
-Bubble P
-AEMLEPX
-Bubble M
-AELEMPX
-Bubble L
-AEELMPX
-
-
-5526
-2556
-2556
-2556
-2556
-sorted
-
-5526
-5256
-2556
