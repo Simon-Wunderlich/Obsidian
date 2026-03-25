@@ -18,7 +18,7 @@ for x in V:
 
 # DFS
 Adj Matrix: $\Theta (|V|^2)$
-Adj List: $\Theta (|V| + |E|)
+Adj List: $\Theta (|V| + |E|)$
 
 ## Pop order
 List in which nodes are popped (Topological sort)
