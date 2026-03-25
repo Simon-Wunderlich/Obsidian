@@ -1,4 +1,4 @@
-if self sourced get approval from Prodessional year PM
+if self sourced get approval from Professional year PM
 Share a copy of contract
 upload contract to WIL
 monthly reflection
