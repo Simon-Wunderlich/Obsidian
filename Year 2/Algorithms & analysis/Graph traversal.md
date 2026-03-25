@@ -17,6 +17,9 @@ for x in V:
 
 
 # DFS
+Adj Matrix: $\Theta (|V|^2)$
+Adj List: $\Theta (|V| + |E|)
+
 ## Pop order
 List in which nodes are popped (Topological sort)
 ## Push order
@@ -26,3 +29,5 @@ List in which nodes are pushed (Traversal order)
 List in which nodes are enqueued (traversal order)
 ## Dequeue order
 Same as enqueue order
+
+[a,b,c,d,f,g]
