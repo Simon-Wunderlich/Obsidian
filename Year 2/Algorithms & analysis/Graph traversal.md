@@ -30,5 +30,3 @@ Can be used to find nodes which when removed will create two disconnected compon
 List in which nodes are enqueued (traversal order)
 ## Dequeue order
 Same as enqueue order
-
-[a,b,c,d,f,g]

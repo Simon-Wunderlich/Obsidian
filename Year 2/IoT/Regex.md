@@ -14,3 +14,8 @@ Class: [[IoT]]
 | $         | end of line     | bug$    |
 | \d        | digit           | \d      |
 | \w        | char            |         |
+
+
+$$
+log_{a}(b) = \frac{log_{c}(a)}{log_{c}(a)}
+$$
