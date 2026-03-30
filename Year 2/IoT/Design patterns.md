@@ -46,9 +46,9 @@ class factory():
 		# Obj assignment is hidden from main
 		match (type):
 			case "old one":
-				return B
+				return B()
 			case "new one":
-				return C
+				return C()
 			default
 				return globals()[type]
 	
