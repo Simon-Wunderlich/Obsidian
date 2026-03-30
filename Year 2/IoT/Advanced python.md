@@ -45,3 +45,26 @@ class A():
 for x in A():
 	print(x)
 ```
+
+# Yield
+Function containing yield
+```python
+def test():
+	for x in range(10):
+		yield x
+		
+for x in test():
+	print(x)
+```
+
+# Closures(?)
+Combo of function and set of references to variables in the functions scope
+```python
+def etbn():
+	g= 0
+	
+AH = etbn()
+
+print(AH.__closure__[0].g)
+```
+
